@@ -1,4 +1,4 @@
-Question 1= 704. Binary Search:
+/*Question 1= 704. Binary Search:*/
 
 class Solution {
 public:
@@ -25,7 +25,7 @@ public:
 };
 
 
-Question 2: 278. First Bad Version:
+/*Question 2: 278. First Bad Version:*/
 
 class Solution {
 public:
@@ -46,7 +46,7 @@ public:
 };
 
 
-Question 3: 35. Search Insert Position:
+//Question 3: 35. Search Insert Position:
 
 class Solution {
 public:
